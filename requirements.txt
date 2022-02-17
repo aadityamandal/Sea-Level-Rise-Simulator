@@ -1,0 +1,15 @@
+# CSC110 Final Project: Python libraries required for this program.
+
+# Testing and code checking
+python-ta
+
+# Graphics and data visualization
+pygame==2.0.0.dev
+pprint
+
+# Dataset libraries
+csv
+
+# Other
+typing.Dict
+typing.List
